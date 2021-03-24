@@ -1,0 +1,17 @@
+{
+  "title": "Bleach Test",
+  "description": "Bleach Test",
+  "artist": "Tite Kubo",
+  "author": "Tite Kubo",
+  "cover": "https://i.imgur.com/qzn235L.jpg",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "groups": {
+        "KojoZero": "/proxy/api/imgur/chapter/e2p2jue/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
